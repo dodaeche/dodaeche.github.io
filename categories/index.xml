@@ -6,35 +6,6 @@
     <description>Recent content in Categories on Bookworm - Personal Blog Template</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Feb 2021 16:56:47 +0600</lastBuildDate>
     <atom:link href="https://dodaeche.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>LifeStyle</title>
-      <link>https://dodaeche.github.io/categories/lifestyle/</link>
-      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
-      <guid>https://dodaeche.github.io/categories/lifestyle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Photography</title>
-      <link>https://dodaeche.github.io/categories/photography/</link>
-      <pubDate>Thu, 04 Feb 2021 16:56:47 +0600</pubDate>
-      <guid>https://dodaeche.github.io/categories/photography/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Accessories</title>
-      <link>https://dodaeche.github.io/categories/accessories/</link>
-      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
-      <guid>https://dodaeche.github.io/categories/accessories/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Food</title>
-      <link>https://dodaeche.github.io/categories/food/</link>
-      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
-      <guid>https://dodaeche.github.io/categories/food/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
