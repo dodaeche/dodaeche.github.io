@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Bookworm - Personal Blog Template</title>
-    <link>https://dodaeche.github.io/tags/android/</link>
+    <link>http://172.20.73.98:1313/tags/android/</link>
     <description>Recent content in Android on Bookworm - Personal Blog Template</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Oct 2024 13:24:51 +0000</lastBuildDate>
-    <atom:link href="https://dodaeche.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://172.20.73.98:1313/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://dodaeche.github.io/blog/test/</link>
+      <link>http://172.20.73.98:1313/blog/test/</link>
       <pubDate>Sun, 06 Oct 2024 13:24:51 +0000</pubDate>
-      <guid>https://dodaeche.github.io/blog/test/</guid>
+      <guid>http://172.20.73.98:1313/blog/test/</guid>
       <description>&lt;p&gt;동해 물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세. 무궁화 삼천리 화려강산 대한 사람, 대한으로 길이 보전하세 남산 위에 저 소나무, 철갑을 두른 듯 바람서리 불변함은 우리 기상일세. 무궁화 삼천리 화려강산&#xA;대한 사람, 대한으로 길이 보전하세&lt;/p&gt;</description>
     </item>
   </channel>
