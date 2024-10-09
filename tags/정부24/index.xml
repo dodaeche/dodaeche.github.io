@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>정부24 on Securion tech-blog</title>
+    <link>https://dodaeche.github.io/tags/%EC%A0%95%EB%B6%8024/</link>
+    <description>Recent content in 정부24 on Securion tech-blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Oct 2024 01:05:39 +0000</lastBuildDate>
+    <atom:link href="https://dodaeche.github.io/tags/%EC%A0%95%EB%B6%8024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>악성 앱 정부24 분석 결과</title>
+      <link>https://dodaeche.github.io/blog/article03/article/</link>
+      <pubDate>Wed, 09 Oct 2024 01:05:39 +0000</pubDate>
+      <guid>https://dodaeche.github.io/blog/article03/article/</guid>
+      <description>&lt;h2 id=&#34;1-분석-개요&#34;&gt;1. 분석 개요&lt;/h2&gt;&#xA;&lt;h3 id=&#34;대상-정보&#34;&gt;대상 정보&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;구분&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;정보&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;파일명&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;정부24.apk&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;패키지명&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;com.efimoongar&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;앱 분류&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Trojan-Spyware&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;MD5 Hash&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;fc4c8ad2a4ee15575c2bd05d77f7bd5b&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;수집 경로&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;KISA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;[표 1] 대상 정보&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
