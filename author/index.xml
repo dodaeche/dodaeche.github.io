@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Securion tech-blog</title>
-    <link>https://dodaeche.github.io/author/</link>
+    <link>//172.30.173.61:1313/author/</link>
     <description>Recent content in Author on Securion tech-blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Oct 2024 10:14:19 +0600</lastBuildDate>
-    <atom:link href="https://dodaeche.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//172.30.173.61:1313/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ginger</title>
-      <link>https://dodaeche.github.io/author/ginger/</link>
+      <link>//172.30.173.61:1313/author/ginger/</link>
       <pubDate>Wed, 02 Oct 2024 10:14:19 +0600</pubDate>
-      <guid>https://dodaeche.github.io/author/ginger/</guid>
+      <guid>//172.30.173.61:1313/author/ginger/</guid>
       <description>&lt;p&gt;Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Henara Colii</title>
-      <link>https://dodaeche.github.io/author/henara-colii/</link>
+      <link>//172.30.173.61:1313/author/henara-colii/</link>
       <pubDate>Tue, 02 Feb 2021 10:20:19 +0600</pubDate>
-      <guid>https://dodaeche.github.io/author/henara-colii/</guid>
+      <guid>//172.30.173.61:1313/author/henara-colii/</guid>
       <description>&lt;p&gt;Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lubana Era</title>
-      <link>https://dodaeche.github.io/author/lubana-era/</link>
+      <link>//172.30.173.61:1313/author/lubana-era/</link>
       <pubDate>Tue, 26 Jan 2021 10:14:19 +0600</pubDate>
-      <guid>https://dodaeche.github.io/author/lubana-era/</guid>
+      <guid>//172.30.173.61:1313/author/lubana-era/</guid>
       <description>&lt;p&gt;Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.&lt;/p&gt;</description>
     </item>
   </channel>

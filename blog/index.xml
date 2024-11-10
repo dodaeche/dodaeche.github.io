@@ -2,39 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Securion tech-blog</title>
-    <link>https://dodaeche.github.io/blog/</link>
+    <link>//172.30.173.61:1313/blog/</link>
     <description>Recent content in Blog on Securion tech-blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 Oct 2024 01:05:39 +0000</lastBuildDate>
-    <atom:link href="https://dodaeche.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//172.30.173.61:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>악성 앱 정부24 분석 결과</title>
-      <link>https://dodaeche.github.io/blog/article03/article/</link>
+      <link>//172.30.173.61:1313/blog/article03/article/</link>
       <pubDate>Wed, 09 Oct 2024 01:05:39 +0000</pubDate>
-      <guid>https://dodaeche.github.io/blog/article03/article/</guid>
-      <description>&lt;h2 id=&#34;1-분석-개요&#34;&gt;1. 분석 개요&lt;/h2&gt;&#xA;&lt;h3 id=&#34;대상-정보&#34;&gt;대상 정보&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;구분&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;정보&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;파일명&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;정부24.apk&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;패키지명&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;com.efimoongar&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;앱 분류&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Trojan-Spyware&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;MD5 Hash&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;fc4c8ad2a4ee15575c2bd05d77f7bd5b&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;수집 경로&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;KISA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;[표 1] 대상 정보&lt;/p&gt;</description>
+      <guid>//172.30.173.61:1313/blog/article03/article/</guid>
+      <description>&lt;h2 id=&#34;1-분석-개요&#34;&gt;1. 분석 개요&lt;/h2&gt;&#xA;&lt;h3 id=&#34;대상-정보&#34;&gt;대상 정보&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;구분&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;정보&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;파일명&lt;/td&gt;&#xA;          &lt;td&gt;정부24.apk&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;패키지명&lt;/td&gt;&#xA;          &lt;td&gt;com.efimoongar&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;앱 분류&lt;/td&gt;&#xA;          &lt;td&gt;Trojan-Spyware&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;MD5 Hash&lt;/td&gt;&#xA;          &lt;td&gt;fc4c8ad2a4ee15575c2bd05d77f7bd5b&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;수집 경로&lt;/td&gt;&#xA;          &lt;td&gt;KISA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;[표 1] 대상 정보&lt;/p&gt;</description>
     </item>
     <item>
       <title>허위 MTS 앱 분석 리포트</title>
-      <link>https://dodaeche.github.io/blog/article02/article/</link>
+      <link>//172.30.173.61:1313/blog/article02/article/</link>
       <pubDate>Mon, 07 Oct 2024 13:54:12 +0000</pubDate>
-      <guid>https://dodaeche.github.io/blog/article02/article/</guid>
+      <guid>//172.30.173.61:1313/blog/article02/article/</guid>
       <description>&lt;p&gt;최근 유명인을 사칭하거나 공모주를 저렴한 가격으로 배정이 가능하다며 허위 주식거래 앱(MTS, Mobile Trading System) 설치를 유도하는 금융투자 사기가 성행하고 있다. 이들은 금융투자업체를 사칭한 사이트를 만들고 임명장이나 증명서 등을 위조하여 사용자들의 신뢰를 얻는다. 허위 MTS 앱은 조작된 정보를 보여주며 투자 및 거래를 유도하지만 실제로 거래가 이루어지진 않는다. 또한 증거금 명목이나 출금 수수료 등 추가 요금을 요구하기도 한다. 이들은 SMS뿐만 아니라 카카오톡 오픈 채팅방, 네이버 밴드, 텔레그램과 같은 SNS를 활용해 사용자를 모집한다. 이에 본 리포트에서는 조작된 정보를 제공하여 투자금을 편취하는 허위MTS 앱 ‘울림’과 이러한 앱이 유포되는 금융투자업체 사칭 사이트의 특징을 분석한다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>신규 유형 부고장 앱 분석 리포트</title>
-      <link>https://dodaeche.github.io/blog/article01/article/</link>
+      <link>//172.30.173.61:1313/blog/article01/article/</link>
       <pubDate>Mon, 07 Oct 2024 12:13:10 +0000</pubDate>
-      <guid>https://dodaeche.github.io/blog/article01/article/</guid>
+      <guid>//172.30.173.61:1313/blog/article01/article/</guid>
       <description>&lt;p&gt;2024년 2월 이후로 부고장 유형의 악성 앱이 지속적으로 탐지되지 않도록 고도화되고 있는 것으로 확인되고 있다. 현재 유포되고 있는 악성 앱은 1부에서 분석된 악성 앱과 동일한 유형이지만 악성 행위 분석 방지 목적으로 &lt;code&gt;newobfs&lt;/code&gt;[1]가 적용된 부분과 별도의 DEX 파일을 동적 로딩하는 차이점이 존재한다. 이번 분석 대상 앱은 ‘부고장 알림 서비스’라는 이름으로 유포되고 있었으며 24년 3월 27일에 발견되었다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://dodaeche.github.io/blog/article00/article00/</link>
+      <link>//172.30.173.61:1313/blog/article00/article00/</link>
       <pubDate>Sun, 06 Oct 2024 13:24:51 +0000</pubDate>
-      <guid>https://dodaeche.github.io/blog/article00/article00/</guid>
+      <guid>//172.30.173.61:1313/blog/article00/article00/</guid>
       <description>&lt;p&gt;동해 물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세. 무궁화 삼천리 화려강산 대한 사람, 대한으로 길이 보전하세 남산 위에 저 소나무, 철갑을 두른 듯 바람서리 불변함은 우리 기상일세. 무궁화 삼천리 화려강산&#xA;대한 사람, 대한으로 길이 보전하세&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to make toys from old Olarpaper</title>
+      <link>//172.30.173.61:1313/blog/post-8/</link>
+      <pubDate>Fri, 05 Feb 2021 16:56:47 +0600</pubDate>
+      <guid>//172.30.173.61:1313/blog/post-8/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What you need to know about Photography</title>
+      <link>//172.30.173.61:1313/blog/post-7/</link>
+      <pubDate>Thu, 04 Feb 2021 16:56:47 +0600</pubDate>
+      <guid>//172.30.173.61:1313/blog/post-7/</guid>
+      <description>&lt;p&gt;Photography is an invaluable medium that allows us to capture the incandescent beauty of the outside world, something many of us haven’t seen in&amp;hellip; well, a hot minute. Global pandemics will do that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Become a morning person with the help of this a alarm clock</title>
+      <link>//172.30.173.61:1313/blog/post-6/</link>
+      <pubDate>Wed, 03 Feb 2021 16:56:47 +0600</pubDate>
+      <guid>//172.30.173.61:1313/blog/post-6/</guid>
+      <description>&lt;p&gt;Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why a balloon is a flexible bag that can be inflated with a gas</title>
+      <link>//172.30.173.61:1313/blog/post-5/</link>
+      <pubDate>Tue, 02 Feb 2021 16:56:47 +0600</pubDate>
+      <guid>//172.30.173.61:1313/blog/post-5/</guid>
+      <description>&lt;p&gt;A balloon is a flexible bag that can be inflated with a gas, such as helium, hydrogen, nitrous oxide, oxygen, and air. For special tasks, balloons can be filled with smoke, liquid water, granular media, or light sources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Banana is the best meal packages in the UK spark outrage online</title>
+      <link>//172.30.173.61:1313/blog/post-4/</link>
+      <pubDate>Mon, 25 Jan 2021 16:56:47 +0600</pubDate>
+      <guid>//172.30.173.61:1313/blog/post-4/</guid>
+      <description>&lt;p&gt;A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called &amp;ldquo;plantains&amp;rdquo;, distinguishing them from dessert bananas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DIY Paper Diamond Tutorial with HUNGRY HEART</title>
+      <link>//172.30.173.61:1313/blog/post-3/</link>
+      <pubDate>Mon, 25 Jan 2021 11:35:57 +0600</pubDate>
+      <guid>//172.30.173.61:1313/blog/post-3/</guid>
+      <description>&lt;p&gt;A paper diamond is such a pretty way to bring a flair of stylish luxury to your home.. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Become a morning person with the help of this a alarm clock</title>
+      <link>//172.30.173.61:1313/blog/post-2/</link>
+      <pubDate>Mon, 25 Jan 2021 11:33:57 +0600</pubDate>
+      <guid>//172.30.173.61:1313/blog/post-2/</guid>
+      <description>&lt;p&gt;Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What you need to know about Photography</title>
+      <link>//172.30.173.61:1313/blog/post-1/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <guid>//172.30.173.61:1313/blog/post-1/</guid>
+      <description>&lt;p&gt;Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
